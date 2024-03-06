@@ -22,7 +22,7 @@ In Jira, there are different ways to classify work being done:
 
 - Acceptance criteria: what determines the story to be complete? 
 
-<p style="text-align: center;"><img src="images/StoryExample.png" width="500"></br>Example of a story</p>
+<p style="align: center;"><img src="images/StoryExample.png" width="500"></br>Example of a story</p>
 
 ### ![](images/subtask.png)  Subtask / ![](images/dev_subtask.png) dev_subtask
 
@@ -34,8 +34,8 @@ In Jira, there are different ways to classify work being done:
 
     -  This includes building, review, and completed statuses. 
 
-<p style="text-align: center;"><img src="images/SubTask_Example.png" width="500"></br>Example of a subtask</p>
-<p style="text-align: center;"><img src="images/dev_subtask_example.png" width="500"></br>Example of dev_subtask</p>
+<p style="align: center;"><img src="images/SubTask_Example.png" width="500"></br>Example of a subtask</p>
+<p style="align: center;"><img src="images/dev_subtask_example.png" width="500"></br>Example of dev_subtask</p>
 
 
 ### ![](images/bug.png)  Bug
@@ -61,7 +61,7 @@ In Jira, there are different ways to classify work being done:
 ## The Process
 Every task, story, and subtask as its own progress report. It’s typically short and to the point, but it can be changed anytime. 
 
-<p style="text-align: center;"><img src="images/MarkAsComplete.png" width="500"></br>Changing the status of an story</p>
+<p style="align: center;"><img src="images/MarkAsComplete.png" width="500"></br>Changing the status of an story</p>
 
 Some of the descriptions include: 
 
@@ -84,10 +84,10 @@ ______
 In order to see how much development time was put into a story, you’ll need to log time. 
 - It will seem like a chore at first, but once started, it will turn into a habit.  
 
-<p style="text-align: center;"><img src="images/LogWorkPre.png" width="500"></br>How to log work</p>
+<p style="align: center;"><img src="images/LogWorkPre.png" width="500"></br>How to log work</p>
 
 By clicking on “Log work” you get the following prompt:
-<p style="text-align: center;"><img src="images/TimeTrack.png" width="250"></br>Time tracking prompt</p>
+<p style="align: center;"><img src="images/TimeTrack.png" width="250"></br>Time tracking prompt</p>
 
 Time spent should contain the active time working on a story or task.  
 
